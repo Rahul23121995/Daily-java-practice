@@ -1,7 +1,7 @@
 # ☕ Daily Java Practice Dashboard
 
 [![Streak Status](https://img.shields.io/badge/streak-active-success?style=for-the-badge&logo=java)](https://github.com/Rahul23121995/Daily-java-practice)
-[![Challenges Solved](https://img.shields.io/badge/solved-4%20%2F%2090-orange?style=for-the-badge)](https://github.com/Rahul23121995/Daily-java-practice)
+[![Challenges Solved](https://img.shields.io/badge/solved-5%20%2F%2090-orange?style=for-the-badge)](https://github.com/Rahul23121995/Daily-java-practice)
 
 Consistent daily practice of top technical interview programming questions in Java, ranging from Easy to Hard. Powered by a self-contained automatic Java practice assistant.
 
@@ -10,7 +10,7 @@ Consistent daily practice of top technical interview programming questions in Ja
 | Day | Easy Challenge (Morning) | Medium Challenge (Afternoon) | Hard Challenge (Evening) | Progress |
 |:---:|:---|:---|:---|:---:|
 | **Day 01** | [Easy: Two Sum](src/day01/Easy_TwoSum.java) | [Medium: Longest Substring](src/day01/Medium_LongestSubstring.java) | [Hard: Merge K Sorted Lists](src/day01/Hard_MergeKSortedLists.java) | 🟩 🟩 🟩 |
-| **Day 02** | [Easy: Palindrome Number](src/day02/Easy_PalindromeNumber.java) | 🔒 Pending | 🔒 Pending | 🟩 ⬜ ⬜ |
+| **Day 02** | [Easy: Palindrome Number](src/day02/Easy_PalindromeNumber.java) | [Medium: Container With Most Water](src/day02/Medium_ContainerWithMostWater.java) | 🔒 Pending | 🟩 🟩 ⬜ |
 | **Day 03** | 🔒 Locked | 🔒 Locked | 🔒 Locked | ⬜ ⬜ ⬜ |
 | **Day 04** | 🔒 Locked | 🔒 Locked | 🔒 Locked | ⬜ ⬜ ⬜ |
 | **Day 05** | 🔒 Locked | 🔒 Locked | 🔒 Locked | ⬜ ⬜ ⬜ |
