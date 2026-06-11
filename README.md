@@ -1,7 +1,7 @@
 # â˜• Daily Java Practice Dashboard
 
 [![Streak Status](https://img.shields.io/badge/streak-active-success?style=for-the-badge&logo=java)](https://github.com/Rahul23121995/Daily-java-practice)
-[![Challenges Solved](https://img.shields.io/badge/solved-15%20%2F%2090-orange?style=for-the-badge)](https://github.com/Rahul23121995/Daily-java-practice)
+[![Challenges Solved](https://img.shields.io/badge/solved-16%20%2F%2090-orange?style=for-the-badge)](https://github.com/Rahul23121995/Daily-java-practice)
 
 Consistent daily practice of top technical interview programming questions in Java, ranging from Easy to Hard. Powered by a self-contained automatic Java practice assistant.
 
@@ -14,7 +14,7 @@ Consistent daily practice of top technical interview programming questions in Ja
 | **Day 03** | [Easy: Valid Parentheses](src/day03/Easy_ValidParentheses.java) | [Medium: Three Sum](src/day03/Medium_ThreeSum.java) | [Hard: Edit Distance](src/day03/Hard_EditDistance.java) | ðŸŸ© ðŸŸ© ðŸŸ© |
 | **Day 04** | [Easy: Merge Two Sorted Lists](src/day04/Easy_MergeTwoSortedLists.java) | [Medium: Group Anagrams](src/day04/Medium_GroupAnagrams.java) | [Hard: Largest Rectangle Histogram](src/day04/Hard_LargestRectangleHistogram.java) | ðŸŸ© ðŸŸ© ðŸŸ© |
 | **Day 05** | [Easy: Buy Sell Stock](src/day05/Easy_BuySellStock.java) | [Medium: Product Array Except Self](src/day05/Medium_ProductArrayExceptSelf.java) | [Hard: Binary Tree Max Path Sum](src/day05/Hard_BinaryTreeMaxPathSum.java) | ðŸŸ© ðŸŸ© ðŸŸ© |
-| **Day 06** | ðŸ”’ Locked | ðŸ”’ Locked | ðŸ”’ Locked | â¬œ â¬œ â¬œ |
+| **Day 06** | [Easy: Valid Anagram](src/day06/Easy_ValidAnagram.java) | ðŸ”’ Pending | ðŸ”’ Pending | ðŸŸ© â¬œ â¬œ |
 | **Day 07** | ðŸ”’ Locked | ðŸ”’ Locked | ðŸ”’ Locked | â¬œ â¬œ â¬œ |
 | **Day 08** | ðŸ”’ Locked | ðŸ”’ Locked | ðŸ”’ Locked | â¬œ â¬œ â¬œ |
 | **Day 09** | ðŸ”’ Locked | ðŸ”’ Locked | ðŸ”’ Locked | â¬œ â¬œ â¬œ |
