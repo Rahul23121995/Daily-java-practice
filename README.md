@@ -1,7 +1,7 @@
 # â˜• Daily Java Practice Dashboard
 
 [![Streak Status](https://img.shields.io/badge/streak-active-success?style=for-the-badge&logo=java)](https://github.com/Rahul23121995/Daily-java-practice)
-[![Challenges Solved](https://img.shields.io/badge/solved-23%20%2F%2090-orange?style=for-the-badge)](https://github.com/Rahul23121995/Daily-java-practice)
+[![Challenges Solved](https://img.shields.io/badge/solved-24%20%2F%2090-orange?style=for-the-badge)](https://github.com/Rahul23121995/Daily-java-practice)
 
 Consistent daily practice of top technical interview programming questions in Java, ranging from Easy to Hard. Powered by a self-contained automatic Java practice assistant.
 
@@ -16,7 +16,7 @@ Consistent daily practice of top technical interview programming questions in Ja
 | **Day 05** | [Easy: Buy Sell Stock](src/day05/Easy_BuySellStock.java) | [Medium: Product Array Except Self](src/day05/Medium_ProductArrayExceptSelf.java) | [Hard: Binary Tree Max Path Sum](src/day05/Hard_BinaryTreeMaxPathSum.java) | ðŸŸ© ðŸŸ© ðŸŸ© |
 | **Day 06** | [Easy: Valid Anagram](src/day06/Easy_ValidAnagram.java) | [Medium: Spiral Matrix](src/day06/Medium_SpiralMatrix.java) | [Hard: Sliding Window Maximum](src/day06/Hard_SlidingWindowMaximum.java) | ðŸŸ© ðŸŸ© ðŸŸ© |
 | **Day 07** | [Easy: Binary Search](src/day07/Easy_BinarySearch.java) | [Medium: Merge Intervals](src/day07/Medium_MergeIntervals.java) | [Hard: Minimum Window Substring](src/day07/Hard_MinimumWindowSubstring.java) | ðŸŸ© ðŸŸ© ðŸŸ© |
-| **Day 08** | [Easy: Reverse String](src/day08/Easy_ReverseString.java) | [Medium: Unique Paths](src/day08/Medium_UniquePaths.java) | ðŸ”’ Pending | ðŸŸ© ðŸŸ© â¬œ |
+| **Day 08** | [Easy: Reverse String](src/day08/Easy_ReverseString.java) | [Medium: Unique Paths](src/day08/Medium_UniquePaths.java) | [Hard: Median Two Sorted Arrays](src/day08/Hard_MedianTwoSortedArrays.java) | ðŸŸ© ðŸŸ© ðŸŸ© |
 | **Day 09** | ðŸ”’ Locked | ðŸ”’ Locked | ðŸ”’ Locked | â¬œ â¬œ â¬œ |
 | **Day 10** | ðŸ”’ Locked | ðŸ”’ Locked | ðŸ”’ Locked | â¬œ â¬œ â¬œ |
 | **Day 11** | ðŸ”’ Locked | ðŸ”’ Locked | ðŸ”’ Locked | â¬œ â¬œ â¬œ |
