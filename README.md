@@ -1,7 +1,7 @@
 # â˜• Daily Java Practice Dashboard
 
 [![Streak Status](https://img.shields.io/badge/streak-active-success?style=for-the-badge&logo=java)](https://github.com/Rahul23121995/Daily-java-practice)
-[![Challenges Solved](https://img.shields.io/badge/solved-32%20%2F%2090-orange?style=for-the-badge)](https://github.com/Rahul23121995/Daily-java-practice)
+[![Challenges Solved](https://img.shields.io/badge/solved-33%20%2F%2090-orange?style=for-the-badge)](https://github.com/Rahul23121995/Daily-java-practice)
 
 Consistent daily practice of top technical interview programming questions in Java, ranging from Easy to Hard. Powered by a self-contained automatic Java practice assistant.
 
@@ -19,7 +19,7 @@ Consistent daily practice of top technical interview programming questions in Ja
 | **Day 08** | [Easy: Reverse String](src/day08/Easy_ReverseString.java) | [Medium: Unique Paths](src/day08/Medium_UniquePaths.java) | [Hard: Median Two Sorted Arrays](src/day08/Hard_MedianTwoSortedArrays.java) | ðŸŸ© ðŸŸ© ðŸŸ© |
 | **Day 09** | [Easy: Contains Duplicate](src/day09/Easy_ContainsDuplicate.java) | [Medium: Search Rotated Array](src/day09/Medium_SearchRotatedArray.java) | [Hard: N Queens](src/day09/Hard_NQueens.java) | ðŸŸ© ðŸŸ© ðŸŸ© |
 | **Day 10** | [Easy: Reverse Linked List](src/day10/Easy_ReverseLinkedList.java) | [Medium: Subsets](src/day10/Medium_Subsets.java) | [Hard: Reverse Nodes K Group](src/day10/Hard_ReverseNodesKGroup.java) | ðŸŸ© ðŸŸ© ðŸŸ© |
-| **Day 11** | [Easy: Two Sum](src/day11/Easy_TwoSum.java) | [Medium: Longest Substring](src/day11/Medium_LongestSubstring.java) | ðŸ”’ Pending | ðŸŸ© ðŸŸ© â¬œ |
+| **Day 11** | [Easy: Two Sum](src/day11/Easy_TwoSum.java) | [Medium: Longest Substring](src/day11/Medium_LongestSubstring.java) | [Hard: Merge K Sorted Lists](src/day11/Hard_MergeKSortedLists.java) | ðŸŸ© ðŸŸ© ðŸŸ© |
 | **Day 12** | ðŸ”’ Locked | ðŸ”’ Locked | ðŸ”’ Locked | â¬œ â¬œ â¬œ |
 | **Day 13** | ðŸ”’ Locked | ðŸ”’ Locked | ðŸ”’ Locked | â¬œ â¬œ â¬œ |
 | **Day 14** | ðŸ”’ Locked | ðŸ”’ Locked | ðŸ”’ Locked | â¬œ â¬œ â¬œ |
